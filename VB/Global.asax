@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.vb" Inherits="SchedulerBindXPOMvc.MvcApplication" Language="vb" %>
