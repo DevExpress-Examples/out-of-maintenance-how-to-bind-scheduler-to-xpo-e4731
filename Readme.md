@@ -1,3 +1,21 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [BaseXpoController.cs](./CS/Controllers/BaseXpoController.cs) (VB: [BaseXpoController.vb](./VB/Controllers/BaseXpoController.vb))
+* [HomeController.cs](./CS/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/Controllers/HomeController.vb))
+* [Global.asax](./CS/Global.asax) (VB: [Global.asax](./VB/Global.asax))
+* [Global.asax.cs](./CS/Global.asax.cs) (VB: [Global.asax](./VB/Global.asax))
+* [SchedulerHelper.cs](./CS/Helpers/SchedulerHelper.cs) (VB: [SchedulerHelper.vb](./VB/Helpers/SchedulerHelper.vb))
+* [XpoHelper.cs](./CS/Helpers/XpoHelper.cs) (VB: [XpoHelper.vb](./VB/Helpers/XpoHelper.vb))
+* [SchedulerDataObject.cs](./CS/Models/SchedulerDataObject.cs) (VB: [SchedulerDataObject.vb](./VB/Models/SchedulerDataObject.vb))
+* [XPAppointment.cs](./CS/Models/XPAppointment.cs) (VB: [XPAppointment.vb](./VB/Models/XPAppointment.vb))
+* [XPResource.cs](./CS/Models/XPResource.cs) (VB: [XPResource.vb](./VB/Models/XPResource.vb))
+* [BaseViewModel.cs](./CS/ViewModels/BaseViewModel.cs) (VB: [BaseViewModel.vb](./VB/ViewModels/BaseViewModel.vb))
+* [XPAppointmentViewModel.cs](./CS/ViewModels/XPAppointmentViewModel.cs) (VB: [XPAppointmentViewModel.vb](./VB/ViewModels/XPAppointmentViewModel.vb))
+* [XPResourceViewModel.cs](./CS/ViewModels/XPResourceViewModel.cs) (VB: [XPResourceViewModel.vb](./VB/ViewModels/XPResourceViewModel.vb))
+* [Index.cshtml](./CS/Views/Home/Index.cshtml)
+* [SchedulerPartial.cshtml](./CS/Views/Home/SchedulerPartial.cshtml)
+<!-- default file list end -->
 # How to bind Scheduler to XPO
 
 
